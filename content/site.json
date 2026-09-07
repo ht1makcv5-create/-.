@@ -1,0 +1,40 @@
+{
+  "name": "Minecrafter",
+  "canonicalBase": "https://minecrafter-ua-world.ht1makcv5.chatgpt.site",
+  "officialUrl": "https://minecrafter.in.ua/",
+  "ip": "play.minecrafter.in.ua",
+  "ports": {"java": 25565, "bedrock": 19132},
+  "versionNote": "На сторінках проєкту вказані різні версії гри. Актуальну сумісність уточнюй у Discord перед підключенням.",
+  "checkedOn": "2026-09-07",
+  "links": {
+    "discord": "https://discord.gg/EZBWfVhQpb",
+    "support": "https://discord.com/channels/934750616604000307/1140312475884081252",
+    "map": "https://map.minecrafter.in.ua/",
+    "donate": "https://minecrafter.in.ua/mono/",
+    "donateTerms": "https://minecrafter.in.ua/autodonate/",
+    "rules": "https://minecrafter.in.ua/rules/",
+    "whitelistRules": "https://minecrafter.in.ua/whitelist-rules/",
+    "commands": "https://minecrafter.in.ua/command_vanillaplus/",
+    "private": "https://minecrafter.in.ua/private/",
+    "faq": "https://minecrafter.in.ua/category/faq/",
+    "contact": "https://minecrafter.in.ua/contact/",
+    "bans": "https://minecrafter.in.ua/vanilla_mod/"
+  },
+  "status": {"enabled": true, "endpoint": "https://api.mcsrvstat.us/3/", "timeoutMs": 7000, "refreshMs": 300000},
+  "modes": [
+    {"slug":"vanillaplus","name":"ВаніллаПлюс","label":"SURVIVAL","color":"green","image":"vanillaplus","featured":true,"available":true,"tagline":"Почни з блоку. Побудуй цілий світ.","description":"Знайоме виживання з можливостями для спільної гри: привати, економіка, клани та магазини.","tags":["Привати","Економіка","Клани"],"features":[["Власний дім","Захисти територію перед будівництвом і додавай лише тих, кому довіряєш."],["Спільна пригода","Об’єднуйся з гравцями, торгуй ресурсами й досліджуй світ."],["Корисні інструменти","Команди, карта і звернення до команди допоможуть освоїтися."]],"source":"https://minecrafter.in.ua/vanillaplus/","note":"Детальні правила PvP, будівництва й дозволених модифікацій перевіряй перед грою."},
+    {"slug":"creative","name":"Креатив","label":"CREATIVE","color":"cyan","image":"creative","featured":false,"available":true,"tagline":"Уяви. Побудуй. Здивуй.","description":"Окремий світ для будівництва на власних ділянках. Зосередься на своїй наступній великій ідеї.","tags":["Будівництво","Ділянки","PRO"],"features":[["Твій простір","Займи вільну ділянку й починай будувати."],["Творчий режим","Креатив відокремлений від економіки виживання."],["Більше можливостей","Додаткові функції PRO описані на офіційній сторінці режиму."]],"source":"https://minecrafter.in.ua/creative/","note":"Права на ділянки та можливості PRO можуть змінюватися. Звіряй їх з офіційним описом."},
+    {"slug":"whitelist","name":"ВайтЛист","label":"WHITELIST","color":"mint","image":"whitelist","featured":false,"available":true,"tagline":"Знайди своїх. Залишайся надовго.","description":"Світ для спільної гри з доступом за заявкою. Для тих, кому важливі атмосфера та сусіди.","tags":["За заявкою","Спільнота","Survival"],"features":[["Заявка у Discord","Знайди канал «вайтлист-вхід» і заповни форму."],["Власний характер","Сторінка режиму описує додаткові біоми, сезони та можливості для спільної гри."],["Повага до сусідів","Ознайомся з окремими правилами ВайтЛиста перед поданням заявки."]],"source":"https://minecrafter.in.ua/whitelist/","note":"На головній ВайтЛист описаний як гра без плагінів і донату, а детальна сторінка містить QoL-донат та додаткові механіки. Уточни поточні умови у команди."},
+    {"slug":"anarchy","name":"Анархія","label":"ANARCHY","color":"red","image":"anarchy","featured":false,"available":true,"tagline":"Світ не обіцяє бути добрим.","description":"Небезпечне виживання, непередбачувані зустрічі та свобода дій. Заходь, якщо готовий до ризику.","tags":["PvP","Ризик","Свобода"],"features":[["Почни з обережності","Вибирай місце для бази з урахуванням ризику втрати ресурсів."],["Швидкий перехід","Команда /server anarchy переводить у режим з мережі сервера."],["Перевір умови","Правила інших режимів не описують усі механіки Анархії."]],"source":"https://minecrafter.in.ua/anarchy/","note":"Головна та сторінка Анархії по-різному описують античит і донат. Орієнтуйся на актуальне оголошення адміністрації."}
+  ],
+  "team": [
+    {"name":"єКілвас","nickname":"Kilvas / Kilvas13","role":"Адміністратор · ВаніллаПлюс та Ванілла","url":"https://discordapp.com/users/749987757312573573"},
+    {"name":"Денвер Свіфт","nickname":"danversvift","role":"Модератор","url":"https://discordapp.com/users/965937983209476156"},
+    {"name":"_dari_17","nickname":"_dari_17","role":"Хелпер","url":"https://discordapp.com/users/551383687640645654"},
+    {"name":"_tanysha_29","nickname":"tanysha","role":"Хелпер","url":"https://discordapp.com/users/1076961694724673558"},
+    {"name":"ATSTEK","nickname":"ATSTEK","role":"Хелпер","url":null},
+    {"name":"Leliana (Стася)","nickname":"Leliana","role":"Адміністратор · ВайтЛист","url":"https://discordapp.com/users/363727536414392322"}
+  ],
+  "news": [],
+  "events": []
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://minecrafter-ua-world.ht1makcv5.chatgpt.site/sitemap.xml
